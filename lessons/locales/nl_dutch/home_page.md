@@ -6,46 +6,46 @@
 
 * Command Line - Leer de beginselen van de opdrachtregel, navigeren tussen bestanden, mappen en meer.
 
-* Text-Fu - Learn basic text manipulation and navigation.
+* Tekst-Fu - Leer de fundamenten van tekstmanipulatie en navigatie.
 
-* Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
+* Gevorderde Tekst-Fu - Navigeer tekst als een Linux slingeraap met vim en emacs.
 
-* User Management - Learn about user roles and management.
+* Gebruikersbeheer - Maak kennis met gebruikersrollen en beheer.
 
-* Permissions - Learn about permission levels and modifying permissions.
+* Rechten - Leer over de verschillende machtigingsniveaus en het modificeren van rechten.
 
-* Processes - Learn about the running processes on the system.
+* Processen - Leer over de actieve processen binnen het Linux besturingssysteem.
 
-* Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
+* Pakketbeheer - Leer alles over de dpkg, apt-get, rpm en yum toepassingen voor pakketbeheer.
 
 ## Journeyman
 
-* Devices - Learn about Linux devices and how they interact with the kernel and user space.
+* Apparaten - Leer over Linux apparaten en hoe ze werken met de kernel en gebruikersruimte.
 
-* The Filesystem - Learn about the Linux filesystem, the different types of filesystems, partitioning and more.
+* Het bestandssysteem - Leer over het Linux bestandssysteem, de verschillende soorten bestandssystemen, partities en meer.
 
-* Boot the System - Learn about the stages of the Linux boot process.
+* Opstarten van het besturingssysteem - Leer over de verschillende stadia van het Linux opstartproces.
 
-* Kernel - The most important part of the Linux system, learn about how it works and how to configure it.
+* Kernel - Het meest belangrijke onderdeel binnen het Linux besturingssysteem. Leer hoe het in elkaar zit en hoe je het kan configureren.
 
-* Init - Learn about the different init systems, SysV, Upstart and systemd.
+* Init - Leer over de verschillende init (initialisatie) systemen: SysV, Upstart en systemd.
 
-* Process Utilization - Learn resource monitoring with top, load averages, iostat and more!
+* Procesgebruik - Maak kennis met het monitoren van processen via top, gemiddelde belasting, iostat en meer!
 
-* Logging - Learn about system logs and the /var/log directory.
+* Loggen - Leer over logbestanden en de /var/log map.
 
 ## Networking Nomad
 
-* Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
+* Netwerkuitwisseling- Leer over netwerkuitwisseling (network sharing) met rsync, scp, nfs en meer.
 
-* Network Basics - Learn about networking basics and the TCP/IP model.
+* Netwerkbeginselen - Maak kennis met de fundamenten van netwerken en het TCP/IP protocol.
 
-* Subnetting - Learn about subnets and how to do subnet arithmetic!
+* Subnetten - Leer over subnets en hoe je ze moet berekenen.
 
-* Routing - Learn how packets are routed across networks!
+* Routing - Leer hoe pakketjes verplaatst worden over netwerken!
 
-* Network Config - Learn about network configuration using Linux tools!
+* Netwerkconfiguratie - Learn about network configuration using Linux tools! leer over netwerkconfiguratie met behulp van Linux-hulpprogramma's!
 
-* Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
+* Probleemoplossen - Leer over veelvoorkomende hulpprogramma's die helpen bij het diagnosticeren en oplossen van netwerkproblemen!
 
-* DNS - Everything and more that you wanted to know about DNS.
+* DNS - Alles en meer dat je wilde weten over DNS.
